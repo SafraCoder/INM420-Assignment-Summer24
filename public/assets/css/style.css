@@ -566,6 +566,27 @@ footer {
     border-radius: 50%;
 }
 
+/* Ramon Lianko */
+.mon h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 60px;
+    color: #e7324a;
+    padding-top: 5px;
+}
+
+.mon{
+    background: rgb(20, 20, 20);
+    
+}
+
+#ramon{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
 /* Felipe's CSS */
 .felipeCarbonari h1 {
     font-family: "Lato", sans-serif;
@@ -600,6 +621,8 @@ footer {
     padding-top: 20px;
     color: #fdf5ee;
 }
+
+
 @media (min-width: 650px) {
     main {
         display: flex;
